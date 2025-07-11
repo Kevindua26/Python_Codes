@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86705361-796e-4b36-9e31-df8fea95b8a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_Practical_File.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1_HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q2_PrintName.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q3_CheckValidIdentifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q4.CheckInvalidIdentifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q5_SingleLineComment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q6_MultilineComment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q7_DocStringComment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q8_SingleFunction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q8_VariableTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="86705361-796e-4b36-9e31-df8fea95b8a5" name="Changes" comment="Refactor Q4">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,9 +39,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "project.scopes"
+    "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Pycharm\Projects\Python_Practical_File" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,6 +62,37 @@
       <option name="presentableId" value="Default" />
       <updated>1752262214795</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1752263198410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752263198410</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Remove main.py">
+      <option name="closed" value="true" />
+      <created>1752263253349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752263253349</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refactor Q4">
+      <option name="closed" value="true" />
+      <created>1752263316633</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752263316633</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Remove main.py" />
+    <MESSAGE value="Refactor Q4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor Q4" />
   </component>
 </project>
