@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86705361-796e-4b36-9e31-df8fea95b8a5" name="Changes" comment="Create src Directory">
-      <change afterPath="$PROJECT_DIR$/src/Q10_DataTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q11_ListSetDict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q12_GettingUserName.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q13_Add10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q14_MultipleInputs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q15_BasicMathOperations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Q16_MathModule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q17_MathModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q18_ListSumSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q19_SwapNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q20_CheckPositiveOrNegative.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +57,9 @@
     "Python.Q14_MultipleInputs.executor": "Run",
     "Python.Q15_BasicMathOperations.executor": "Run",
     "Python.Q16_MathModule.executor": "Run",
+    "Python.Q18_MathModule.executor": "Run",
+    "Python.Q19_CheckPositiveOrNegative.executor": "Run",
+    "Python.Q19_ListSumSort.executor": "Run",
     "Python.Q7_DocStringComment.executor": "Run",
     "Python.Q8_VariableTypes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
