@@ -8,3 +8,5 @@ if char in "aeiou":
     print(f"'{char}' is a vowel")
 else:
     print(f"'{char}' is not a vowel")
+
+print('This code is written and executed by Kaivalaya Dua 0231BCA205')

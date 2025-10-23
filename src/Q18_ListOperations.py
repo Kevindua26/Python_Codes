@@ -18,3 +18,5 @@ print("\nResults:")
 print(f"Original list: {numbers}")
 print(f"Sum of numbers: {list_sum}")
 print(f"Sorted list: {sorted_list}")
+
+print('This code is written and executed by Kaivalaya Dua 0231BCA205')

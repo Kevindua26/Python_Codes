@@ -13,3 +13,5 @@ percentage = (total_marks / 500) * 100
 
 print(f"Total marks: {total_marks}")
 print(f"Percentage: {percentage}%")
+
+print('This code is written and executed by Kaivalaya Dua 0231BCA205')

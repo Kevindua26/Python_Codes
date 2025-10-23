@@ -8,3 +8,5 @@ if number % 2 == 0 and number % 3 == 0:
     print(f"{number} is divisible by both 2 and 3")
 else:
     print(f"{number} is not divisible by both 2 and 3")
+
+print('This code is written and executed by Kaivalaya Dua 0231BCA205')
