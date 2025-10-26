@@ -1,4 +1,5 @@
 # Write a program for real life examples to calculate the bank interest.
+print('Q67_BankInterestCalculator.py')
 
 def calculate_simple_interest(principal, rate, time):
     """Calculate Simple Interest"""
@@ -45,5 +46,3 @@ print(f"Interest: ₹{ci:.2f}")
 print(f"Total Amount: ₹{total_ci:.2f}")
 
 print(f"\nDifference: ₹{(ci - si):.2f}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

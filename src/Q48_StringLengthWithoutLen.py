@@ -1,4 +1,5 @@
 # Write a program to calculate the length of a string without using the built-in len() function.
+print('Q48_StringLengthWithoutLen.py')
 
 # Get input from user
 text = input("Enter a string: ")
@@ -10,5 +11,3 @@ for char in text:
 
 # Display result
 print(f"Length of '{text}' is {length}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

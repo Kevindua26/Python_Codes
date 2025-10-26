@@ -1,4 +1,5 @@
 # Write a program for user - defined exceptions.
+print('Q95_UserDefinedExceptions.py')
 
 # Define custom exception
 class InvalidMarksError(Exception):
@@ -20,5 +21,3 @@ try:
     check_marks(marks)
 except InvalidMarksError as e:
     print(f"Error: {e}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

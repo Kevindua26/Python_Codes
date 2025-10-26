@@ -1,5 +1,4 @@
 # Write a program to print Hello World
+print('Q01_HelloWorld.py')
 
 print("Hello World")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

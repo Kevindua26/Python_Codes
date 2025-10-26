@@ -1,4 +1,5 @@
 # Write a program to find the ASCII value of a character.
+print('Q71_ASCIIValue.py')
 
 def get_ascii(char):
     """Return ASCII value of a character"""
@@ -31,5 +32,3 @@ print("\n=== ASCII Range ===")
 print(f"Uppercase A-Z: {get_ascii('A')} to {get_ascii('Z')}")
 print(f"Lowercase a-z: {get_ascii('a')} to {get_ascii('z')}")
 print(f"Digits 0-9: {get_ascii('0')} to {get_ascii('9')}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

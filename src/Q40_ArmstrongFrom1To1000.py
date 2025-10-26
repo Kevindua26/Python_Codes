@@ -1,4 +1,5 @@
 # Write a program to print armstrong numbers from 1 to 1000.
+print('Q40_ArmstrongFrom1To1000.py')
 
 print("Armstrong numbers from 1 to 1000:")
 
@@ -16,5 +17,3 @@ for num in range(1, 1001):
     # Print if armstrong number
     if sum_of_powers == num:
         print(num, end=" ")
-
-print('\This code is written and executed by Kaivalaya Dua 0231BCA205')

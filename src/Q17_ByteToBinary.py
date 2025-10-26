@@ -1,4 +1,5 @@
 # Write a program to perform byte → binary type data type
+print('Q17_ByteToBinary.py')
 
 print("===BYTE EXAMPLE===")
 b = bytes([65, 66, 67, 68, 69])
@@ -56,5 +57,3 @@ mv_ba[0] = 97
 print(ba_mv)
 
 print(ba_mv)
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

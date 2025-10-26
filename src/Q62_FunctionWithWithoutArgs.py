@@ -1,4 +1,5 @@
 # Write a program for the def function definition with arguments and without arguments.
+print('Q62_FunctionWithWithoutArgs.py')
 
 # Function without arguments
 def greet():
@@ -30,5 +31,3 @@ add_numbers(50, 75)
 print("\n=== Function with default argument ===")
 greet_with_message("Kaivalaya")
 greet_with_message("Kaivalaya", "Good Evening")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

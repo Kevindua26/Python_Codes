@@ -1,4 +1,5 @@
 # Program to grade the student according to the percentage
+print('Q25_StudentGrade.py')
 
 # Get marks for 5 subjects from user
 subject1 = float(input("Enter marks for subject 1: "))
@@ -27,5 +28,3 @@ else:
     grade = "D"
 
 print(f"Grade: {grade}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

@@ -1,4 +1,5 @@
 # Write a program to perform file operations : write, read, search.
+print('Q103_FileOperations.py')
 
 # Write to file
 def write_file():
@@ -37,5 +38,3 @@ read_file()
 print("\n=== Search Operation ===")
 search_name = input("Enter name to search: ")
 search_file(search_name)
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

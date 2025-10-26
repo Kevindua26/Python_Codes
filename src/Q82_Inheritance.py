@@ -1,4 +1,5 @@
 # Write a program to demonstrate inheritance.
+print('Q82_Inheritance.py')
 
 # Parent class
 class Animal:
@@ -27,5 +28,3 @@ cat = Cat("Kitty")
 animal.sound()
 dog.sound()
 cat.sound()
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

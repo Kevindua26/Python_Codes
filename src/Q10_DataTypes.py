@@ -1,4 +1,5 @@
 # Write a program on data types strings, boolean and tuple
+print('Q10_DataTypes.py')
 
 # String Data Type
 name = 'John Doe'
@@ -20,5 +21,3 @@ print("\n=== Tuple Examples ===")
 print(f"Coordinates: {coordinates}")
 print(f"X coordinate: {coordinates[0]}")
 print(f"Y coordinate: {coordinates[1]}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

@@ -1,4 +1,5 @@
 # Write a program to display calendar.
+print('Q73_DisplayCalendar.py')
 
 import calendar
 
@@ -60,5 +61,3 @@ elif choice == '4':
 
 else:
     print("Invalid choice!")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

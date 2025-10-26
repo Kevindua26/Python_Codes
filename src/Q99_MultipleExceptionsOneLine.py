@@ -1,4 +1,5 @@
 # Write a program to handle multiple exceptions in one line.
+print('Q99_MultipleExceptionsOneLine.py')
 
 try:
     num = int(input("Enter a number: "))
@@ -8,5 +9,3 @@ try:
 except (ValueError, ZeroDivisionError, IndexError) as e:
     print(f"Error occurred: {e}")
     print(f"Error type: {type(e).__name__}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

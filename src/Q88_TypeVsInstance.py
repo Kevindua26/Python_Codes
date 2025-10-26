@@ -1,4 +1,5 @@
 # Write a program to differentiate between type() and instance().
+print('Q88_TypeVsInstance.py')
 
 class Animal:
     pass
@@ -29,5 +30,3 @@ print("\n=== Key Difference ===")
 print(f"type(dog) == Dog: {type(dog) == Dog}")
 print(f"type(dog) == Animal: {type(dog) == Animal}")  # False (exact type check)
 print(f"isinstance(dog, Animal): {isinstance(dog, Animal)}")  # True (checks inheritance)
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

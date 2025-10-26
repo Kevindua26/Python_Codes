@@ -1,4 +1,5 @@
 # Write a program to check a point entered by the user lies in the first, second, third or fourth quadrant.
+print('Q87_CheckQuadrant.py')
 
 # Get coordinates from user
 x = float(input("Enter x coordinate: "))
@@ -19,5 +20,3 @@ elif x == 0:
     print(f"Point ({x}, {y}) lies on Y-axis")
 else:
     print(f"Point ({x}, {y}) lies on X-axis")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

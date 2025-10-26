@@ -1,4 +1,5 @@
 # Write a program to find the lcm of multiple numbers.
+print('Q64_LCMOfMultipleNumbers.py')
 
 def find_gcd(a, b):
     """Find GCD of two numbers"""
@@ -29,5 +30,3 @@ for i in range(n):
 # Calculate and display LCM
 result = find_lcm_multiple(numbers)
 print(f"\nLCM of {numbers} is {result}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

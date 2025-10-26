@@ -1,4 +1,5 @@
 # Program to demonstrate integer and float data types
+print('Q09_VariableTypes.py')
 
 # Integer variables
 age = 25
@@ -14,5 +15,3 @@ print(f"Type of age is: {type(age)}")
 print("\nFloat Variables:")
 print(f"price = {price}")
 print(f"Type of price is: {type(price)}")
-
-print('\nThis code is written and executed by Kaivalaya Dua 0231BCA205')

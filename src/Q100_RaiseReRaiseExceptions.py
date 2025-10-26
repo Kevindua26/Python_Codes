@@ -1,4 +1,5 @@
 # Write a program to raise and re - raise exceptions.
+print('Q100_RaiseReRaiseExceptions.py')
 
 def divide(a, b):
     try:
@@ -16,5 +17,3 @@ except ZeroDivisionError:
     print("Caught re-raised exception: Cannot divide by zero!")
 except Exception as e:
     print(f"Error: {e}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

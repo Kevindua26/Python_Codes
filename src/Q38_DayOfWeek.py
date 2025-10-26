@@ -1,4 +1,5 @@
 # Write a program to ask the user to input a number (1 - 7) and display the corresponding day.
+print('Q38_DayOfWeek.py')
 
 # Get input from user
 day_num = int(input("Enter a number (1-7): "))
@@ -20,5 +21,3 @@ elif day_num == 7:
     print("Sunday")
 else:
     print("Invalid input! Please enter a number between 1 and 7.")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

@@ -1,4 +1,5 @@
 # Write a program to create and use different generators in python.
+print('Q59_DifferentGenerators.py')
 
 print("=== Generator 1: Number Generator ===\n")
 
@@ -70,5 +71,3 @@ fruits = ["Apple", "Banana", "Cherry", "Date"]
 print("Fruits:")
 for fruit in list_generator(fruits):
     print(fruit, end=" ")
-
-print('\n\nThis code is written and executed by Kaivalaya Dua 0231BCA205')

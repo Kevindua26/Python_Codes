@@ -1,4 +1,5 @@
 # Write a program to count the occurrence of the user - entered words in a sentence.
+print('Q49_CountWordOccurrence.py')
 
 # Get input from user
 sentence = input("Enter a sentence: ")
@@ -19,5 +20,3 @@ for w in words_list:
 
 # Display result
 print(f"The word '{word}' appears {count} times in the sentence")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

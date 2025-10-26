@@ -1,4 +1,5 @@
 # Program to perform list operations (sum and sort)
+print('Q18_ListOperations.py')
 
 # Get input from user
 n = int(input("Enter how many numbers you want to add to the list: "))
@@ -18,5 +19,3 @@ print("\nResults:")
 print(f"Original list: {numbers}")
 print(f"Sum of numbers: {list_sum}")
 print(f"Sorted list: {sorted_list}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

@@ -1,4 +1,5 @@
 # Write a program to perform different operations on the list.
+print('Q44_ListOperations.py')
 
 # Create a list
 my_list = [10, 20, 30, 40, 50]
@@ -42,5 +43,3 @@ print("9. Length of list:", len(my_list))
 # 10. Clear list
 my_list.clear()
 print("10. After clear():", my_list)
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

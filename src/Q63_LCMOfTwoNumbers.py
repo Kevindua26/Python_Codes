@@ -1,4 +1,5 @@
 # Write a program in python to find the lcm of 2 numbers.
+print('Q63_LCMOfTwoNumbers.py')
 
 def find_gcd(a, b):
     """Find GCD using Euclidean algorithm"""
@@ -19,5 +20,3 @@ num2 = int(input("Enter second number: "))
 # Calculate and display LCM
 lcm = find_lcm(num1, num2)
 print(f"\nLCM of {num1} and {num2} is {lcm}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

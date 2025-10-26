@@ -1,4 +1,5 @@
 # Write a program to demonstrate the difference between abstraction and encapsulation.
+print('Q80_AbstractionVsEncapsulation.py')
 
 # Abstraction - hiding complex implementation details
 class Car:
@@ -31,5 +32,3 @@ print("\n=== Encapsulation ===")
 account = BankAccount(1000)
 account.deposit(500)
 print(f"Balance: {account.get_balance()}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

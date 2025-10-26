@@ -1,4 +1,5 @@
 # Write a program to check whether the number is prime number or not.
+print('Q35_CheckPrimeNumber.py')
 
 # Get input from user
 num = int(input("Enter a number: "))
@@ -19,5 +20,3 @@ else:
         print(f"{num} is a prime number")
     else:
         print(f"{num} is not a prime number")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

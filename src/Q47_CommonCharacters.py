@@ -1,4 +1,5 @@
 # Write a program to print the characters which are common in 2 strings.
+print('Q47_CommonCharacters.py')
 
 # Get input from user
 string1 = input("Enter first string: ")
@@ -16,5 +17,3 @@ for char in string1:
 # If no common characters
 if len(common_chars) == 0:
     print("No common characters found")
-
-print('\This code is written and executed by Kaivalaya Dua 0231BCA205')

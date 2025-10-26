@@ -1,4 +1,5 @@
 # Write a program to demonstrate encapsulation.
+print('Q81_Encapsulation.py')
 
 class Student:
     def __init__(self, name, marks):
@@ -35,5 +36,3 @@ student.display()
 
 # Direct access won't work (encapsulated)
 # print(student.__marks)  # This will give error
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

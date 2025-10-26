@@ -1,4 +1,5 @@
 # Write a program to doc string comment
+print('Q07_DocStringComment.py')
 
 def example_function():
     """
@@ -8,4 +9,3 @@ def example_function():
     print("Docstring comment.")
 
 example_function()
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

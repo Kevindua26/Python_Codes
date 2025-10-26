@@ -1,4 +1,5 @@
 # Write a program to use a generator with yield.
+print('Q57_GeneratorYield.py')
 
 # Generator function for Fibonacci sequence
 def fibonacci_generator(n):
@@ -49,5 +50,3 @@ gen = square_generator(1, 5)
 print("First:", next(gen))
 print("Second:", next(gen))
 print("Third:", next(gen))
-
-print('\n\nThis code is written and executed by Kaivalaya Dua 0231BCA205')

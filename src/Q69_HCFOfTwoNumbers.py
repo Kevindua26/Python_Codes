@@ -1,4 +1,5 @@
 # Write a program to find the hcf of two numbers.
+print('Q69_HCFOfTwoNumbers.py')
 
 def find_hcf(a, b):
     """Find HCF/GCD using Euclidean algorithm"""
@@ -31,5 +32,3 @@ def find_hcf_recursive(a, b):
     return find_hcf_recursive(b, a % b)
 
 print(f"HCF using recursion: {find_hcf_recursive(num1, num2)}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

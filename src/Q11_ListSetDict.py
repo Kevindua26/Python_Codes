@@ -1,4 +1,5 @@
 # Write a program data type list, set and dictionary
+print('Q11_ListSetDict.py')
 
 # List - ordered, mutable collection
 fruits = ['apple', 'banana', 'orange']
@@ -18,5 +19,3 @@ person = {
 }
 print("\nDictionary Example:")
 print("Person:", person)
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

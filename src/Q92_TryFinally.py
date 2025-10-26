@@ -1,4 +1,5 @@
 # Write a basic try - finally program.
+print('Q92_TryFinally.py')
 
 try:
     num = int(input("Enter a number: "))
@@ -8,5 +9,3 @@ except:
     print("Error occurred!")
 finally:
     print("This always executes!")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

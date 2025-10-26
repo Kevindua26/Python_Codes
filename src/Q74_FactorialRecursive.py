@@ -1,4 +1,5 @@
 # Write a program to print the factorial of numbers using recursive functions.
+print('Q74_FactorialRecursive.py')
 
 def factorial_recursive(n):
     """Calculate factorial using recursion"""
@@ -35,5 +36,3 @@ else:
     print(f"\nFactorials from 1 to {num}:")
     for i in range(1, num + 1):
         print(f"{i}! = {factorial_recursive(i)}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

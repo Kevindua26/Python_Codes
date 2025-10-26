@@ -1,4 +1,5 @@
 # Write a program to count the total number of vowels, consonants and blanks in a string.
+print('Q61_CountVowelsConsonantsBlanks.py')
 
 # Get input from user
 text = input("Enter a string: ")
@@ -30,5 +31,3 @@ print(f"Total Blanks: {blanks}")
 # Additional details
 print(f"\nTotal Characters: {len(text)}")
 print(f"Alphabets: {vowels + consonants}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

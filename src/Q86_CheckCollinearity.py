@@ -1,4 +1,5 @@
 # Write a program to check collinearity using x,y coordinates.
+print('Q86_CheckCollinearity.py')
 
 def check_collinearity(x1, y1, x2, y2, x3, y3):
     """Check if three points are collinear using area formula"""
@@ -22,5 +23,3 @@ if check_collinearity(x1, y1, x2, y2, x3, y3):
     print("\nThe points are COLLINEAR (lie on same line)")
 else:
     print("\nThe points are NOT collinear")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

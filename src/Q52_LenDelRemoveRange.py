@@ -1,4 +1,5 @@
 # Write a program to use len(), del, remove(), and range() on list/tuple.
+print('Q52_LenDelRemoveRange.py')
 
 print("=== List Operations ===\n")
 
@@ -44,5 +45,3 @@ print("3. Tuple from range(5, 16, 2):", range_tuple)
 print("4. Accessing tuple elements using range:")
 for i in range(len(my_tuple)):
     print(f"   Index {i}: {my_tuple[i]}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

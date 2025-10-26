@@ -1,4 +1,5 @@
 # Write a program to check if a number is armstrong or not.
+print('Q39_CheckArmstrong.py')
 
 # Get input from user
 num = int(input("Enter a number: "))
@@ -17,5 +18,3 @@ if sum_of_powers == num:
     print(f"{num} is an Armstrong number")
 else:
     print(f"{num} is not an Armstrong number")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

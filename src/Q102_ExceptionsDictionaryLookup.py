@@ -1,4 +1,5 @@
 # Write a program to handle exceptions with dictionary lookup.
+print('Q102_ExceptionsDictionaryLookup.py')
 
 student_marks = {
     "Alice": 85,
@@ -17,5 +18,3 @@ except KeyError:
     print(f"Available students: {list(student_marks.keys())}")
 except Exception as e:
     print(f"Error: {e}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

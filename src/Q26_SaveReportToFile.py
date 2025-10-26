@@ -1,4 +1,5 @@
 # Program to get user input and save report to a file
+print('Q26_SaveReportToFile.py')
 
 # Get user input
 name = input("Enter your name: ")
@@ -17,5 +18,3 @@ with open("user_report.txt", "w") as file:
     file.write(report)
 
 print("Report saved to user_report.txt")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

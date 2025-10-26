@@ -1,4 +1,5 @@
 # Write a program to check prime numbers between the given range.
+print('Q36_PrimeInRange.py')
 
 # Get range from user
 start = int(input("Enter start of range: "))
@@ -19,5 +20,3 @@ for num in range(start, end + 1):
         # Print if prime
         if is_prime:
             print(num, end=" ")
-
-print('\This code is written and executed by Kaivalaya Dua 0231BCA205')

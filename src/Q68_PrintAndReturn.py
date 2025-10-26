@@ -1,4 +1,5 @@
 # Write a program where you use both print and return in the same program (percentage calculation).
+print('Q68_PrintAndReturn.py')
 
 def calculate_percentage(marks_obtained, total_marks):
     """Calculate percentage and return it"""
@@ -60,5 +61,3 @@ grade = get_grade(percentage)
 
 # Display complete result (uses print only)
 display_result(name, roll, percentage, grade)
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

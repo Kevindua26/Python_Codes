@@ -1,4 +1,5 @@
 # Program to calculate the percentage of a student through 5 subjects
+print('Q24_StudentPercentage.py')
 
 # Get marks for 5 subjects from user
 subject1 = float(input("Enter marks for subject 1: "))
@@ -13,5 +14,3 @@ percentage = (total_marks / 500) * 100
 
 print(f"Total marks: {total_marks}")
 print(f"Percentage: {percentage}%")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

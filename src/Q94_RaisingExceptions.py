@@ -1,4 +1,5 @@
 # Write a program for raising exceptions.
+print('Q94_RaisingExceptions.py')
 
 def check_age(age):
     if age < 0:
@@ -15,5 +16,3 @@ except ValueError as e:
     print(f"ValueError: {e}")
 except Exception as e:
     print(f"Error: {e}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

@@ -1,4 +1,5 @@
 # Write a program to demonstrate variable length parameters.
+print('Q77_VariableLengthParameters.py')
 
 # *args - variable length positional arguments
 def calculate_sum(*numbers):
@@ -70,5 +71,3 @@ print(f"Sum of list: {calculate_sum(*numbers_list)}")
 
 dict_data = {"name": "Bob", "age": 20, "city": "Mumbai"}
 display_info(**dict_data)
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

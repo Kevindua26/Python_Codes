@@ -1,4 +1,5 @@
 # Write a program for file handling with exception.
+print('Q97_FileHandlingException.py')
 
 try:
     # Try to open and read file
@@ -18,5 +19,3 @@ except Exception as e:
     print(f"Error: {e}")
 finally:
     print("File operation completed!")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

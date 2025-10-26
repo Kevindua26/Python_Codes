@@ -1,4 +1,5 @@
 # Write a program to create and destroy multiple objects.
+print('Q89_CreateDestroyObjects.py')
 
 class Student:
     count = 0  # Class variable to count objects
@@ -31,5 +32,3 @@ print(f"\nRemaining objects: {Student.count}")
 del s3
 
 print(f"\nFinal count: {Student.count}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

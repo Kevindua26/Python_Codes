@@ -1,4 +1,5 @@
 # Write a program to use yield in a custom iterator.
+print('Q56_YieldIterator.py')
 
 # Custom iterator class using yield
 class CountDown:
@@ -50,5 +51,3 @@ class EvenNumbers:
 print("\n\nEven numbers up to 20:")
 for num in EvenNumbers(20):
     print(num, end=" ")
-
-print('\n\nThis code is written and executed by Kaivalaya Dua 0231BCA205')

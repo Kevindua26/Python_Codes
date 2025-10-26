@@ -1,4 +1,5 @@
 # Write a program on getting multiple inputs from users and print them in formatted way
+print('Q14_MultipleInputs.py')
 
 # Getting multiple inputs from user
 name = input("Enter your name: ")
@@ -20,5 +21,3 @@ Height: {height:.2f} meters""")
 # .format(name=name, age=age, city=city, hobby=hobby, height=height))
 
 print(summary)
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

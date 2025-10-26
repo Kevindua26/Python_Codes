@@ -1,4 +1,5 @@
 # Write a program to convert decimal numbers to binary, octal and hexadecimal.
+print('Q70_DecimalConversion.py')
 
 def decimal_to_binary(num):
     """Convert decimal to binary"""
@@ -42,5 +43,3 @@ def manual_decimal_to_binary(num):
     return binary
 
 print(f"\nManual Binary Conversion: {manual_decimal_to_binary(decimal_num)}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

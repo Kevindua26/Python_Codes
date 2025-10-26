@@ -1,4 +1,5 @@
 # Write a program to create iterators.
+print('Q60_CreateIterators.py')
 
 print("=== Iterator 1: Custom Counter Iterator ===\n")
 
@@ -93,5 +94,3 @@ fib = FibonacciIterator(10)
 print("First 10 Fibonacci numbers:")
 for num in fib:
     print(num, end=" ")
-
-print('\n\nThis code is written and executed by Kaivalaya Dua 0231BCA205')

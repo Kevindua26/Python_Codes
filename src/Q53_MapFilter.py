@@ -1,4 +1,5 @@
 # Write a program to demonstrate usage of map() and filter() on a list.
+print('Q53_MapFilter.py')
 
 # Original list
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -37,5 +38,3 @@ print("\n=== Combining map() and filter() ===\n")
 # Filter even numbers and then square them
 even_squared = list(map(lambda x: x ** 2, filter(lambda x: x % 2 == 0, numbers)))
 print("Even numbers squared:", even_squared)
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

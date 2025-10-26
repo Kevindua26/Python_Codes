@@ -1,4 +1,5 @@
 # Program to take a list of numbers from user, calculate sum, and sort the list
+print('Q18_ListSumSort.py')
 
 # Get numbers from user
 numbers_input = input("Enter numbers separated by spaces: ")
@@ -11,5 +12,3 @@ print(f"Sum of numbers: {total_sum}")
 # Sort the list
 sorted_numbers = sorted(numbers)
 print(f"Sorted list: {sorted_numbers}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

@@ -1,4 +1,5 @@
 # Write a program to create a using the class keyword, and an object is created by calling the class.
+print('Q79_ClassAndObject.py')
 
 # Define a class
 class Student:
@@ -22,5 +23,3 @@ student1.display()
 
 print("\nStudent 2:")
 student2.display()
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

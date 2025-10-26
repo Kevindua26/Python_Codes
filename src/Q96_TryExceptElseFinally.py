@@ -1,4 +1,5 @@
 # Write a basic program try - except - else - finally.
+print('Q96_TryExceptElseFinally.py')
 
 try:
     num = int(input("Enter a number: "))
@@ -12,5 +13,3 @@ else:
     print("Operation successful!")
 finally:
     print("Execution completed!")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')

@@ -1,4 +1,5 @@
 # Write a program to handle exceptions in list operations.
+print('Q101_ExceptionsListOperations.py')
 
 my_list = [10, 20, 30, 40, 50]
 
@@ -18,5 +19,3 @@ except ValueError as e:
     print(f"Error: {e}")
 except Exception as e:
     print(f"Unexpected error: {e}")
-
-print('This code is written and executed by Kaivalaya Dua 0231BCA205')
